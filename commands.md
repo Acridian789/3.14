@@ -1,3 +1,5 @@
+[< На главную](readme.md)
+
 ## Шпаргалка по основным командам:
 1. [git add](add.md)
 2. [git status](status.md)
